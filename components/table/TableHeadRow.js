@@ -20,6 +20,7 @@ const TableHeadRow = ({ data }) => {
               placeholder='blur'
               width={48}
               title={type.name.toUpperCase()}
+              priority
             />
           </th>
         );
