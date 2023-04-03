@@ -7,8 +7,8 @@ import pokemonTypes from "../lib/PokemonTypeData";
 
 function Chart() {
   return (
-    <div className="overflow-auto relative h-screen">
-      <table className="border-collapse table-fixed w-max md:m-auto">
+    <div className='overflow-auto relative h-[100svh]'>
+      <table className='border-collapse table-fixed w-max md:m-auto'>
         <thead>
           <TableHeadRow data={pokemonTypes} />
         </thead>
