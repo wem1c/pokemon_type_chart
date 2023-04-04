@@ -19,18 +19,19 @@ export default function About() {
         </p>
         <p>
           So I made this Progressive Web App (PWA) which in its base is a
-          pokemon chart with sticky headers so that you don't get lost scrolling
-          on smaller screens.
+          pokemon chart with sticky headers so that you don&#39;t get lost
+          scrolling on smaller screens.
         </p>
         <p>
-          The fact that it's a PWA means that you can save it to your home
+          The fact that it&#39;s a PWA means that you can save it to your home
           screen and then open it by tapping the icon - just like you would any
           other app, without having to go through your browser every time!
         </p>
         <p>
           To do this, either click the notification that pops up when you first
-          open this website or tap on the three dot menu and select: "Install"
-          or "Install app" (depends on the browser you're using).
+          open this website or tap on the three dot menu and select:
+          &#34;Install&#34; or &#34;Install app&#34; (depends on the browser
+          you&#39;re using).
         </p>
         <br></br>
         <h2 className='text-lg text-center font-semibold'>
