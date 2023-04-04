@@ -1,9 +1,11 @@
-A small project to improve the lives of Pokemon GO players. 🚀
+A small web app to improve the lives of Pokemon GO players. 🚀
+
+Available [here](https://pokemon-type-chart.vercel.app/).
 
 # About
-A small PWA created using Next.js
+Just a Progressive Web App created using Next.js and hosted via Vercel.
 
-Esentially a responsive grid table aimed at mobile device users playing Pokemon GO.
+Esentially a responsive table aimed at mobile device users playing Pokemon GO.
 
 # TODO
 - [ ] Add row/column highlighting
